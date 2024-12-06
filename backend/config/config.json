@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "password",
+      "database": "farm_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+}
+  
